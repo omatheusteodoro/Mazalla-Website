@@ -1,0 +1,229 @@
+body {
+    background-color: #A55C39;
+}
+
+.catarina {
+    background-color: #DACB82;
+    margin-top: -16px;
+}
+
+.navlinks :visited {
+    color: rgb(228, 182, 108);
+    text-decoration: none; 
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+.navlinks :link{
+    color: #FFEFD5;
+    text-decoration: none;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 25px 20px;
+    text-align: center;
+}
+
+.navlinks, .txt3 a :hover{
+    font-size: 110%;
+    color: #FFEFD5;
+    text-decoration: none;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.maintitle{
+    font-family: Calming;
+    font-size: 20px;
+    text-align: center;
+    color: #FFEFD5;
+    background-color: #c77e5d;
+    padding: 5px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.txt {
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150%;
+    color: #FFEFD5;
+    text-align: center;
+}
+
+.txt h3 {
+    color: #EFBF37;
+    font-size: 200%;
+    font-family: Calming;
+}
+
+.txt2 {
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150%;
+    color: #142D31;
+    text-align: center; 
+    background-color: #EFBF37;
+    padding: 10px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+
+.txt2 h2 {
+    font-family: futura-pt-bold, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.txt b {
+    font-family: futura-pt, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.txt2 h3, h4 {
+    font-family: Calming;
+
+}
+
+.txt3 {
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150%;
+    color: #FFEFD5;
+    text-align: center; 
+}
+
+.txt3 h2 {
+    font-family: Calming;
+}
+
+.txt3 a {
+    color: #FFEFD5;
+    text-decoration: none;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+.txt3 ul{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.txt3 li{
+    padding-left: 1em;
+    text-indent: -1em;
+}
+
+footer {
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center; 
+}
+
+h1 {
+    font-family: Calming;
+}
+
+.left_img {
+    float: left;    
+    margin: 0 0 0 20%;
+    padding-right: 2%;
+}
+
+.left_txt {
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #FFEFD5;
+}
+
+.left_txt h2 {
+    font-family: Calming;
+    font-size: 250%;
+}
+
+.left_txt p {
+    font-size: 20px;
+    margin-right: 15%;
+}
+
+.right_img {
+    float: right;    
+    margin: 0 25% 0 0;
+    padding-left: 2%;
+}
+
+.right_txt {
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #FFEFD5;
+    text-align: right;
+}
+
+.right_txt h2 {
+    font-family: Calming;
+    font-size: 250%;
+}
+
+.right_txt p {
+    font-size: 20px;
+    margin-left: 15%;
+}
+
+.catarina {
+    font-style: normal;
+    font-size: 150%;
+    text-align: center; 
+    padding: 10px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+
+
+.catarina h2 {
+    font-family: cocogoose-pro;
+    font-weight: 600;
+    font-size: 120%;
+}
+
+.catarina p {
+    font-family: cocogoose-pro;
+    font-weight: 400;
+    font-size: 80%;
+    margin: 0% 20% 0% 20%;
+}
+
+.catarina h3 {
+    font-family: cocogoose-pro;
+    font-weight: 600;
+}
+
+.catarina a {
+    color: #000000;
+    text-decoration: none;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 25px 20px;
+    text-align: center; 
+    font-size: 180%;
+}

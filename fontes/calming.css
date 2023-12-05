@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Calming';
+    src: local('Calming Regular'), local('Calming-Regular'),
+        url(Calming-Regular.woff2) format('woff2'),
+        url(Calming-Regular.woff) format('woff'),
+        url(Calming-Regular.woff2) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }

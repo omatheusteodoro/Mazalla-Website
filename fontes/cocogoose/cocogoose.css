@@ -1,0 +1,89 @@
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro\ Thin-trial.ttf);
+    font-display:auto;
+    font-style:normal;
+    font-weight:200;
+    font-stretch:normal;
+}
+
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro\ Thin\ Italic-trial.ttf);
+    font-display:auto;
+    font-style:italic;
+    font-weight:200;
+    font-stretch:normal;
+}
+
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro\ Ultralight-trial.ttf);
+    font-display:auto;
+    font-style:normal;
+    font-weight:300;
+    font-stretch:normal;
+}
+
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro\ UltraLight\ Italic-trial.ttf);
+    font-display:auto;
+    font-style:italic;
+    font-weight:300;
+    font-stretch:normal;
+}
+
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro\ Light-trial.ttf);
+    font-display:auto;
+    font-style:normal;
+    font-weight:400;
+    font-stretch:normal;
+}
+
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro\ Light\ Italic-trial.ttf);
+    font-display:auto;
+    font-style:italic;
+    font-weight:400;
+    font-stretch:normal;
+}
+
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro\ Semilight-trial.ttf);
+    font-display:auto;
+    font-style:normal;
+    font-weight:500;
+    font-stretch:normal;
+}
+
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro\ Semilight\ Italic-trial.ttf);
+    font-display:auto;
+    font-style:italic;
+    font-weight:500;
+    font-stretch:normal;
+}
+
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro-trial.ttf);
+    font-display:auto;
+    font-style: normal;
+    font-weight:600;
+    font-stretch:normal;
+}
+
+@font-face {
+    font-family: cocogoose-pro;
+    src: url(Cocogoose\ Pro\ Italic-trial.ttf);
+    font-display:auto;
+    font-style:italic;
+    font-weight:600;
+    font-stretch:normal;
+}
